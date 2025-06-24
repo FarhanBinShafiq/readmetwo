@@ -34,21 +34,6 @@ The label-tooltip plugin enhances SurveyCTO forms by adding an interactive toolt
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 🛠️ How to Use
 
 Follow these steps to integrate and test the label-tooltip plugin in your SurveyCTO form:
@@ -73,21 +58,16 @@ Follow these steps to integrate and test the label-tooltip plugin in your Survey
     
     ```
     
-
 ----------
 
 ## ⚙️ Parameters
-|  COMPONENT|VALUE  | 
-|--|--|
-| Plugin Name | "label-tooltip" |
-|  Parameter|"icon_class" |
-|  Parameter| "tools_text" |
+| COMPONENT        | VALUE                            | DESCRIPTION                                                                 |
+|------------------|----------------------------------|-----------------------------------------------------------------------------|
+| Plugin Name | "label-tooltip" |                                                                                                   |
+|  Parameter|"icon_class" | Specifies the Font Awesome v5 icon class for the tooltip trigger (e.g., "fas fa-user-tie").             |
+|  Parameter| "tools_text" | "tools_text"-Defines the tooltip text displayed in the popup card (e.g., "You will collect data using imagine").|
 
 
-
-Parameter :"icon_class"-Specifies the Font Awesome v5 icon class for the tooltip trigger (e.g., "fas fa-user-tie").
-
-Parameter :"tools_text"-Defines the tooltip text displayed in the popup card (e.g., "You will collect data using imagine").
 
 **Notes**:
 
